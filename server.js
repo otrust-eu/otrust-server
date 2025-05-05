@@ -2337,7 +2337,7 @@ app.get('/api', (req, res) => {
         'POST /api/sync': 'Synchronize with other OTRUST nodes (admin only)'
       }
     },
-    documentation: 'https://docs.otrust.io'
+    documentation: 'https://docs.otrust.eu'
   });
 });
 

@@ -1,0 +1,30 @@
+{
+  "name": "otrust-cli",
+  "version": "1.0.0",
+  "description": "Command-line interface for the OTRUST protocol",
+  "main": "otrust-cli.js",
+  "bin": {
+    "otrust-cli": "otrust-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "otrust",
+    "cli",
+    "blockchain",
+    "verification",
+    "trust"
+  ],
+  "author": "OTRUST Contributors",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "commander": "^11.1.0",
+    "inquirer": "^8.2.6",
+    "json2csv": "^5.0.7",
+    "ora": "^5.4.1"
+  }
+}

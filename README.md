@@ -1,6 +1,6 @@
 # OTRUST
 
-![OTRUST Logo](docs/images/logo.png)
+
 
 **A Protocol for Distributed Truth with Lightweight Blockchain**
 

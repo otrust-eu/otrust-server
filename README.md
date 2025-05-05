@@ -39,8 +39,8 @@ OTRUST uses a hybrid data architecture:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/otrust.git
-   cd otrust
+   git clone https://github.com/otrust-eu/otrust-server.git
+   cd otrust-server
    ```
 
 2. Install dependencies
@@ -107,7 +107,6 @@ For full API documentation, see [API.md](docs/API.md) or run the server and visi
 ## Development
 
 ### Code Structure
-
 - `server.js`: Main application file
 - `config/`: Configuration files
 - `models/`: MongoDB models
@@ -133,4 +132,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Website](https://otrust.eu)
 - [Documentation](https://docs.otrust.eu)
-
